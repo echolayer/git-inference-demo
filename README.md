@@ -12,6 +12,8 @@ For example: `node index.js /home/user/api-repo 10`
 
 `number_of_modules_to_be_analyzed`: The number of commits to be analyzed (If left empty the script will attempt to analyze all commits in the repo)
 
+Tip: If the process is taking too long, cancel the process and reduce the number of commits analyzed (`number_of_modules_to_be_analyzed`) which is 2500 by default.
+
 ### Example Output
 ```
 {
