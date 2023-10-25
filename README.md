@@ -1,4 +1,4 @@
-# ECHOLAYER PLAY INFERENCE
+# ECHOLAYER GIT INFERENCE DEMO
 
 ## Requirements
 Node Version: `v20.6.1`
